@@ -9,6 +9,10 @@ class Dog
     @name 
   end 
   
+  def breed
+    @breed 
+  end
+  
   def breed=(new_breed="Mutt")
    @breed=new_breed
  end 
