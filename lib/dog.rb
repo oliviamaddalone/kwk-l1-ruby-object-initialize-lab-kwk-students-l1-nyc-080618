@@ -10,5 +10,6 @@ class Dog
   
   def breed 
     @breed=(new_breed)
+    new_breed="Mutt"
     
   
